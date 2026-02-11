@@ -36,3 +36,10 @@ We think this idea is sustainable in many ways:
 
 # Credits
 Contents of this repository are released under an [CC-BY license 4.0](https://creativecommons.org/licenses/by/4.0/) and have been created by Jamie Taylor, under an original idea from Jérémy Bonvoisin. Although we investigated the technical feasibility of this design and know it would work, Adjustabike is still just a concept for now. Feel free to bring it to the next step! We'd love to see lots of them on the streets in the future.
+
+
+# Related cargo-bike reference
+
+For readers exploring cargo configurations (including three-wheeled layouts), this background article may be useful:
+
+* [Tricycle cargo bike (OHO Wiki)](https://en.oho.wiki/wiki/Tricycle_cargo_bike)
